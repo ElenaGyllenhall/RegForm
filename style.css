@@ -1,3 +1,4 @@
+/*create by EG*/
 body,h1,h2,h3,p,td,quote,small,form,input,ul,li,ol,label{
 	margin:0px;
 	padding:0px;
@@ -18,7 +19,6 @@ body{
     font-size: 20px;
     font-weight: 500;
     padding: 7px 0 15px 0;
-
 }
 /* Form styles */
 input,select{
@@ -75,16 +75,7 @@ td{
 	border:1px solid #006600;
 	font-weight:bold;
 }
-
 .greenButton:active{
 	background-color:#006600;
 	padding:4px 3px 2px 5px;
-}
-#error{
-	background-color:#ffebe8;
-	border:1px solid #dd3c10;
-	padding:7px 3px;
-	text-align:center;
-	margin-top:10px;
-	visibility:hidden;
 }
