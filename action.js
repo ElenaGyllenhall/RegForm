@@ -1,3 +1,4 @@
+//create by EG
 var sex, month, day, year, yearvalue, monthvalue, dayvalue, term;
 
 function SetSex() {
